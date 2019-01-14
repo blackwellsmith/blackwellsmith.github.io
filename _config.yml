@@ -1,11 +1,11 @@
 # Site settings
-author: blackwell
-title: 
+author: Blackwell Smith
+title: Me and the Keys
 header-img: img/home-bg.png
 email: blackwellsmithiv@gmail.com
-copyright_name: blackwell
+copyright_name: Blackwell Smith
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Career 2.0: Into the future
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  blackwellsmith
